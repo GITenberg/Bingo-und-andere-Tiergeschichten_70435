@@ -1,0 +1,41 @@
+_repo: Bingo-und-andere-Tiergeschichten_70435
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seton, Ernest Thompson
+    aliases:
+    - Seton-Thompson, Ernest
+    - Thompson-Seton, Ernest
+    - Seton-Thomson, Ernest
+    - Seton, Wolf
+    - Thompson, Ernest Evan
+    - Thompson, Ernest Seton
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '535'
+    url: http://www.gutenberg.org/2009/agents/535
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+description: ''
+gutenberg_issued: '2023-04-01'
+identifiers:
+  gutenberg: '70435'
+language: de
+pgterms:marc905: 20170204094534thompsonse
+pgterms:marc906: '1921'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bKosmos, Gesellschaft der Naturfreunde (Franckh''sche
+  Verlagshandlung), $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Anecdotes'
+- !lcc 'QL'
+- GITenberg
+tableOfContents: Bingo, die Geschichte meines Hundes -- Silberfleck, die Geschichte
+  einer Krähe -- Zottelohr, die Geschichte eines Hasen -- Lobo, der König von Currumpaw
+  -- Vixen, eine Mutter -- Rotkrause, die Geschichte des Fasanen aus dem Don-Tale
+  -- Wully, ein Schäferhund -- Der Paßgänger.
+title: Bingo und andere Tiergeschichten
+url: http://www.gutenberg.org/ebooks/70435
